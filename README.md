@@ -15,7 +15,7 @@ virtualenv -p python3 airflowEnv
 		export AIRFLOW_HOME=~/keurseus/berkenalan_dengan_airflow/airflow
 		
 		by default
-		export AIRFLOW_HOME=~~/airflow
+		export AIRFLOW_HOME=~/airflow
 
 
 # install from pypi using pip
