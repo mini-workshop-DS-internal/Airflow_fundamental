@@ -32,3 +32,5 @@ airflow scheduler
 
 # visit localhost:8080 in the browser and enable the example dag in the home page
 ```
+
+Learn more concepts i've been curated [Here](https://github.com/mini-workshop-DS-internal/Airflow_fundamental/blob/master/airflow_fundamental_notes.md)
