@@ -45,8 +45,8 @@ Executor lainnya, seperti CeleryExecutor yang mengeksekusi Task menggunakan pros
 
 - Workers: Ini adalah proses yang benar-benar melaksanakan logika Task, dan ditentukan oleh Executor yang digunakan.
 
-<>
-- Konsep utama pada Airflow
+
+### Konsep utama pada Airflow
 <p align="center">
 	<img src="airflow_img/2_im.png">
 </p>
