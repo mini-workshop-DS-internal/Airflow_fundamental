@@ -34,3 +34,5 @@ airflow scheduler
 ```
 
 Learn more concepts i've been curated [Here](https://github.com/mini-workshop-DS-internal/Airflow_fundamental/blob/master/airflow_fundamental_notes.md)
+
+Article inside [My Medium](https://medium.com/@yuriowindiatmoko/airflow-fundamental-4097005a8498)
